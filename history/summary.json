@@ -58,19 +58,19 @@
     "url": "https://nyafrillan.se",
     "icon": "https://icons.duckduckgo.com/ip3/nyafrillan.se.ico",
     "slug": "nya-frillan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1735,
-    "timeDay": 1369,
-    "timeWeek": 1527,
-    "timeMonth": 1621,
-    "timeYear": 1735,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1728,
+    "timeDay": 1397,
+    "timeWeek": 1519,
+    "timeMonth": 1616,
+    "timeYear": 1728,
     "dailyMinutesDown": {
-      "2022-12-14": 0
+      "2022-12-14": 20
     }
   },
   {
