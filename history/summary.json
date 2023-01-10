@@ -40,18 +40,20 @@
     "url": "https://printe.se",
     "icon": "https://icons.duckduckgo.com/ip3/printe.se.ico",
     "slug": "printe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1271,
-    "timeDay": 1262,
-    "timeWeek": 1334,
-    "timeMonth": 1311,
-    "timeYear": 1271,
-    "dailyMinutesDown": {}
+    "time": 1254,
+    "timeDay": 667,
+    "timeWeek": 1176,
+    "timeMonth": 1272,
+    "timeYear": 1254,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "Nya Frillan",
