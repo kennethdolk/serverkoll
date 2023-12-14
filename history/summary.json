@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 84,
-    "timeWeek": 78,
+    "timeDay": 79,
+    "timeWeek": 77,
     "timeMonth": 88,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 222,
-    "timeDay": 160,
-    "timeWeek": 299,
-    "timeMonth": 211,
+    "timeDay": 214,
+    "timeWeek": 320,
+    "timeMonth": 217,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2023-02-22": 20,
@@ -47,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/printe.se.ico",
     "slug": "printe",
     "status": "down",
-    "uptime": "16.12%",
+    "uptime": "16.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.76%",
+    "uptimeYear": "7.48%",
     "time": 1254,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2023-12-13": 50,
+      "2023-12-14": 49,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -409,14 +410,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1861,
-    "timeDay": 3195,
-    "timeWeek": 3581,
-    "timeMonth": 3962,
-    "timeYear": 1872,
-    "dailyMinutesDown": {
-      "2022-12-14": 20
-    }
+    "time": 1860,
+    "timeDay": 1547,
+    "timeWeek": 3470,
+    "timeMonth": 3874,
+    "timeYear": 1870,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Svedja",
@@ -430,9 +429,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
-    "timeDay": 483,
-    "timeWeek": 492,
-    "timeMonth": 554,
+    "timeDay": 399,
+    "timeWeek": 472,
+    "timeMonth": 548,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2023-07-07": 19
@@ -450,9 +449,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 130,
-    "timeWeek": 236,
-    "timeMonth": 233,
+    "timeDay": 259,
+    "timeWeek": 260,
+    "timeMonth": 237,
     "timeYear": 193,
     "dailyMinutesDown": {}
   }
