@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 67,
-    "timeWeek": 102,
+    "timeDay": 82,
+    "timeWeek": 90,
     "timeMonth": 81,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 249,
-    "timeWeek": 190,
-    "timeMonth": 223,
+    "time": 225,
+    "timeDay": 153,
+    "timeWeek": 186,
+    "timeMonth": 212,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2023-02-22": 20
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/printe.se.ico",
     "slug": "printe",
     "status": "down",
-    "uptime": "14.50%",
+    "uptime": "14.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-27": 46,
+      "2024-01-28": 50,
+      "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
@@ -419,8 +420,7 @@
       "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
-      "2023-01-29": 1440,
-      "2023-01-28": 1440
+      "2023-01-29": 1440
     }
   },
   {
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.93%",
-    "time": 2064,
-    "timeDay": 5526,
-    "timeWeek": 3509,
-    "timeMonth": 3331,
-    "timeYear": 2152,
+    "time": 2067,
+    "timeDay": 3299,
+    "timeWeek": 3372,
+    "timeMonth": 3342,
+    "timeYear": 2155,
     "dailyMinutesDown": {
       "2024-01-05": 187,
       "2024-01-04": 172
@@ -456,10 +456,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 546,
-    "timeDay": 381,
-    "timeWeek": 466,
-    "timeMonth": 509,
-    "timeYear": 535,
+    "timeDay": 408,
+    "timeWeek": 451,
+    "timeMonth": 505,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2023-12-18": 104,
       "2023-07-07": 19
@@ -476,10 +476,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 238,
-    "timeWeek": 240,
-    "timeMonth": 199,
+    "time": 213,
+    "timeDay": 163,
+    "timeWeek": 242,
+    "timeMonth": 200,
     "timeYear": 193,
     "dailyMinutesDown": {}
   }
