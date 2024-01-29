@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 82,
-    "timeWeek": 90,
-    "timeMonth": 81,
+    "timeDay": 118,
+    "timeWeek": 92,
+    "timeMonth": 82,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2023-08-05": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 153,
-    "timeWeek": 186,
-    "timeMonth": 212,
+    "timeDay": 177,
+    "timeWeek": 201,
+    "timeMonth": 213,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2023-02-22": 20
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/printe.se.ico",
     "slug": "printe",
     "status": "down",
-    "uptime": "14.46%",
+    "uptime": "14.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-28": 50,
+      "2024-01-29": 47,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -419,8 +420,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 1440,
-      "2023-01-30": 1440,
-      "2023-01-29": 1440
+      "2023-01-30": 1440
     }
   },
   {
@@ -434,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.93%",
-    "time": 2067,
-    "timeDay": 3299,
-    "timeWeek": 3372,
-    "timeMonth": 3342,
-    "timeYear": 2155,
+    "time": 2070,
+    "timeDay": 3398,
+    "timeWeek": 3520,
+    "timeMonth": 3345,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2024-01-05": 187,
       "2024-01-04": 172
@@ -456,9 +456,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 546,
-    "timeDay": 408,
-    "timeWeek": 451,
-    "timeMonth": 505,
+    "timeDay": 426,
+    "timeWeek": 435,
+    "timeMonth": 495,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2023-12-18": 104,
@@ -477,9 +477,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 163,
-    "timeWeek": 242,
-    "timeMonth": 200,
+    "timeDay": 155,
+    "timeWeek": 226,
+    "timeMonth": 199,
     "timeYear": 193,
     "dailyMinutesDown": {}
   }
