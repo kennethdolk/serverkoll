@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 89,
-    "timeWeek": 89,
+    "timeDay": 77,
+    "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 109,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 119,
-    "timeWeek": 134,
-    "timeMonth": 168,
-    "timeYear": 230,
+    "timeDay": 288,
+    "timeWeek": 149,
+    "timeMonth": 172,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -44,7 +44,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/printe.se.ico",
     "slug": "printe",
     "status": "down",
-    "uptime": "13.55%",
+    "uptime": "13.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,7 +55,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 45,
+      "2024-02-28": 45,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -418,8 +419,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   },
   {
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nyafrillan.se.ico",
     "slug": "nya-frillan",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2191,
-    "timeDay": 4034,
-    "timeWeek": 3919,
-    "timeMonth": 4068,
+    "time": 2190,
+    "timeDay": 1571,
+    "timeWeek": 3728,
+    "timeMonth": 4013,
     "timeYear": 2356,
     "dailyMinutesDown": {
       "2024-01-05": 187,
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 545,
-    "timeDay": 581,
-    "timeWeek": 571,
-    "timeMonth": 523,
+    "timeDay": 481,
+    "timeWeek": 569,
+    "timeMonth": 525,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2023-12-18": 104,
@@ -475,11 +475,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 391,
-    "timeWeek": 197,
-    "timeMonth": 205,
-    "timeYear": 195,
+    "time": 214,
+    "timeDay": 519,
+    "timeWeek": 240,
+    "timeMonth": 217,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   }
 ]
