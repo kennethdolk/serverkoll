@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 46,
+      "2024-03-06": 336,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -427,18 +427,19 @@
     "url": "https://nyafrillan.se",
     "icon": "https://icons.duckduckgo.com/ip3/nyafrillan.se.ico",
     "slug": "nya-frillan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 2215,
+    "time": 2218,
     "timeDay": 3407,
     "timeWeek": 4730,
     "timeMonth": 3910,
     "timeYear": 2411,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-01-05": 187,
       "2024-01-04": 172
     }
